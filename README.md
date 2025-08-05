@@ -6,7 +6,7 @@ A machine learning web app that classifies SMS messages as **Spam** or **Ham** (
 
 ## 🚀 Live Demo
 
-> 🌐 **Coming Soon**: Hosted on [Streamlit Community Cloud](https://streamlit.io/cloud)
+> 🌐 **Try it here**: [https://shivam-spam-email-classifier.streamlit.app/] (https://shivam-spam-email-classifier.streamlit.app/)
 
 > 🧠 Accuracy: ~96% (on test dataset)
 
@@ -61,7 +61,7 @@ A machine learning web app that classifies SMS messages as **Spam** or **Ham** (
 ├── setup.sh                 # Optional auto setup script
 ├── README.md                # Project documentation
 ├── spam_training.ipynb      # 📓 Google Colab notebook (also linked above)
-
+```
 
 ---
 
